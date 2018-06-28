@@ -1,6 +1,6 @@
-# Development docker containers
+# Development playground and exploration
 
-Contains all the development playgrounds, represented as docker containers.
+Contains some of my development explorations in coding.
 
 - Celery Demo Project
 
