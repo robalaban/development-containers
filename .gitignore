@@ -2,3 +2,7 @@ __pycache__
 celerybeat-schedule
 .venv
 .gitignore.swp
+
+# Projects
+
+Thesis
