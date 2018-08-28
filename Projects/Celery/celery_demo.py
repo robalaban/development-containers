@@ -26,4 +26,4 @@ def find_mean():
     # Generating sample data
     data = [random.random() for _ in range(30)]
     
-    return sum(data) // len(data)
+    return sum(data) / len(data)
